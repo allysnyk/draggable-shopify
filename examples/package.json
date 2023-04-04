@@ -35,7 +35,7 @@
     "prepublish": "yarn run build"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.29.1",
     "threads": "https://github.com/beefchimi/threads.git#v1.0.0-beta8"
   },
   "devDependencies": {
